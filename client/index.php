@@ -25,10 +25,10 @@
     
       </p>
       <p class="mb-0">
-        <a href="/register.html" class="text-center">Register a new membership</a>
+        <a href="/register.html" class="text-center">xxxxxxxxxxxxxxxxxxx</a>
       </p>
       <p class="mb-0">
-        <a href="/login.html" class="text-center">i already have account</a>
+        <a href="/login.html" class="text-center">xxxxxxxxxxxxxxxxxxxx</a>
       </p>
     </div>
   </div>
